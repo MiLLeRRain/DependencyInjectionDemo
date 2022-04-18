@@ -1,0 +1,15 @@
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\bin\Debug\net6.0\Demo.Data.NH.deps.json
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\bin\Debug\net6.0\Demo.Data.NH.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\bin\Debug\net6.0\Demo.Data.NH.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\bin\Debug\net6.0\Demo.Domain.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\bin\Debug\net6.0\Demo.Domain.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.csproj.AssemblyReference.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.AssemblyInfoInputs.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.AssemblyInfo.cs
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.csproj.CoreCompileInputs.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.csproj.CopyComplete
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\refint\Demo.Data.NH.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\Demo.Data.NH.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Data.NH\obj\Debug\net6.0\ref\Demo.Data.NH.dll

@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Api\\Demo.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Api\\Demo.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Api\\Demo.Api.csproj",
+        "projectName": "Demo.Api",
+        "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Api\\Demo.Api.csproj",
+        "packagesPath": "C:\\Users\\Liam Han\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Liam Han\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\Demo.Application.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\Demo.Application.csproj"
+              },
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\Demo.Data.EF.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\Demo.Data.EF.csproj"
+              },
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\Demo.Data.NH.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\Demo.Data.NH.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\Demo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\Demo.Application.csproj",
+        "projectName": "Demo.Application",
+        "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\Demo.Application.csproj",
+        "packagesPath": "C:\\Users\\Liam Han\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Liam Han\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\Demo.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\Demo.Data.EF.csproj",
+        "projectName": "Demo.Data.EF",
+        "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\Demo.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\Liam Han\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Liam Han\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\Demo.Data.NH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\Demo.Data.NH.csproj",
+        "projectName": "Demo.Data.NH",
+        "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\Demo.Data.NH.csproj",
+        "packagesPath": "C:\\Users\\Liam Han\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Data.NH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Liam Han\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj",
+        "projectName": "Demo.Domain",
+        "projectPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\Demo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Liam Han\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam Han\\RiderProjects\\Demo\\Demo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Liam Han\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

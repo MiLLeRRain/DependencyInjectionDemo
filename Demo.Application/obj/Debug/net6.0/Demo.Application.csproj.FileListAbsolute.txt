@@ -1,0 +1,15 @@
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\bin\Debug\net6.0\Demo.Application.deps.json
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\bin\Debug\net6.0\Demo.Application.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\bin\Debug\net6.0\Demo.Application.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\bin\Debug\net6.0\Demo.Domain.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\bin\Debug\net6.0\Demo.Domain.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.csproj.AssemblyReference.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.AssemblyInfoInputs.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.AssemblyInfo.cs
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.csproj.CopyComplete
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\refint\Demo.Application.dll
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\Demo.Application.pdb
+C:\Users\Liam Han\RiderProjects\Demo\Demo.Application\obj\Debug\net6.0\ref\Demo.Application.dll
